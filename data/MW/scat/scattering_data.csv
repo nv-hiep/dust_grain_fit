@@ -1,0 +1,149 @@
+reference,wavelength,albedo,albedo_err,g,g_err
+Mathis et al 1981 (Orion),1300,0.43,0.13,0.6,0.18
+Mathis et al 1981 (Orion),1490,0.43,0.13,0.53,0.16
+Mathis et al 1981 (Orion),1760,0.47,0.14,0.25,0.22
+Mathis et al 1981 (Orion),2000,0.42,0.13,0.4,0.2
+Mathis et al 1981 (Orion),2175,0.43,0.13,0.36,0.23
+Mathis et al 1981 (Orion),2370,0.49,0.15,0.29,0.29
+Mathis et al 1981 (Orion),2510,0.51,0.15,0.29,0.29
+Mathis et al 1981 (Orion),3000,0.32,0.1,0.57,0.07
+"Laureijs, et al. 1987 (L1642)",3450,0.45,0.25,-1,0
+"Laureijs, et al. 1987 (L1642)",3850,0.39,0.23,-1,0
+"Laureijs, et al. 1987 (L1642)",4150,0.48,0.22,-1,0
+"Laureijs, et al. 1987 (L1642)",4700,0.45,0.21,-1,0
+"Laureijs, et al. 1987 (L1642)",5500,0.52,0.21,-1,0
+Witt et al. 1982 (NGC 7023),5515,0.6,0.05,0.63,0.1
+Witt et al. 1982 (NGC 7023),4733,0.56,0.05,0.63,0.1
+Witt et al. 1982 (NGC 7023),4093,0.58,0.05,0.6,0.1
+Witt et al. 1982 (NGC 7023),3470,0.55,0.05,0.56,0.1
+Witt et al. 1982 (NGC 7023),2500,0.47,0.05,0.5,0.1
+Witt et al. 1982 (NGC 7023),2000,0.42,0.05,0.4,0.1
+Witt et al. 1982 (NGC 7023),1700,0.52,0.05,0.35,0.1
+Witt et al. 1982 (NGC 7023),1400,0.6,0.05,0.25,0.1
+Mathis 1973 (DGL),3600,0.71,0.2,-1,0
+Mathis 1973 (DGL),4350,0.71,0.2,-1,0
+Witt et al. 1982 (NGC 7023),5515,0.6,0.05,0.63,0.1
+Witt et al. 1982 (NGC 7023),4733,0.56,0.05,0.63,0.1
+Witt et al. 1982 (NGC 7023),4093,0.58,0.05,0.6,0.1
+Witt et al. 1982 (NGC 7023),3470,0.55,0.05,0.56,0.1
+Witt et al. 1982 (NGC 7023),2500,0.47,0.05,-1,0
+Witt et al. 1982 (NGC 7023),2000,0.42,0.05,-1,0
+Witt et al. 1982 (NGC 7023),1700,0.52,0.05,-1,0
+Witt et al. 1982 (NGC 7023),1400,0.6,0.05,-1,0
+Lewis et al. 2007 (Sco OB2),1769,0.59,0.07,-1,0
+Lewis et al. 2007 (Sco OB2),1362,0.54,0.06,-1,0
+Lewis et al. 2007 (Sco OB2),1261,0.66,0.06,-1,0
+Lewis et al. 2007 (Sco OB2),1106,0.31,0.07,-1,0
+Lewis et al. 2007 (Sco OB2),973,0.29,0.13,-1,0
+Witt et al. 1990 (Bok globule),4690,0.8,0.05,0.77,0.09
+Witt et al. 1990 (Bok globule),6500,0.6,0.06,0.59,0.1
+Witt et al. 1990 (Bok globule),8560,0.58,0.04,0.81,0.07
+Lillie & Witt 1976 (DGL/OAO-2),1550,0.6,0.05,0.7,0.1
+Lillie & Witt 1976 (DGL/OAO-2),1910,0.4,0.05,0.9,0.15
+Lillie & Witt 1976 (DGL/OAO-2),2040,0.35,0.05,0.9,0.15
+Lillie & Witt 1976 (DGL/OAO-2),2390,0.4,0.05,0.7,0.15
+Lillie & Witt 1976 (DGL/OAO-2),2460,0.4,0.05,0.75,0.15
+Lillie & Witt 1976 (DGL/OAO-2),2960,0.6,0.05,0.6,0.1
+Lillie & Witt 1976 (DGL/OAO-2),3320,0.7,0.1,0.6,0.1
+Lillie & Witt 1976 (DGL/OAO-2),4250,0.65,0.05,0.7,0.1
+Gordon et al. 1994 (Sco OB2),1769,0.6365,0.0835,-1,0
+Gordon et al. 1994 (Sco OB2),1362,0.589,0.115,0.6,0.1
+Matilla 1970 (Coalack & Libra cloud),3360,0.65,0.1,0.85,0.1
+Matilla 1970 (Coalack & Libra cloud),4380,0.65,0.1,0.85,0.1
+Matilla 1970 (Coalack & Libra cloud),5450,0.65,0.1,0.85,0.1
+Shalima & Murthy 2004 (DGL/Voyager),1250,0.4,0.2,-1,0
+Hurwitz 1994 (Taurus),1600,0.6,0.1,0.5,0.15
+Toller 1981 (DGL/P10),4400,0.61,0.07,0.6,0.22
+Cole et al 1999 (LMC),2150,-1,0,0.7,0.3
+Sujatha et al. 2005 (DGL/Voyager),1100,0.4,0.1,0.55,0.25
+Schiminovich et al 2001 (DGL/NUVIEWS),1740,0.45,0.05,0.77,0.1
+Petersohn 1997 (DGL/DE),1500,0.57,0.15,0.89,0.05
+Lewis et al. 2009 (SPINR: Sco OB2),1261,0.77,0.13,0.6,0.35
+Lewis et al. 2009 (SPINR: Sco OB2),1106,0.33,0.07,0.88,0.1
+Lewis et al. 2009 (SPINR: Sco OB2),973,0.28,0.07,0.49,0.48
+Calzetti et al. 1995 (IC 435),1275,0.79,0.05,0.72,0.05
+Calzetti et al. 1995 (IC 435),1325,0.76,0.05,0.76,0.05
+Calzetti et al. 1995 (IC 435),1375,0.72,0.05,0.74,0.05
+Calzetti et al. 1995 (IC 435),1425,0.75,0.05,0.72,0.05
+Calzetti et al. 1995 (IC 435),1475,0.73,0.05,0.72,0.05
+Calzetti et al. 1995 (IC 435),1525,0.77,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),1575,0.82,0.05,0.62,0.05
+Calzetti et al. 1995 (IC 435),1625,0.76,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),1675,0.66,0.05,0.72,0.05
+Calzetti et al. 1995 (IC 435),1725,0.65,0.05,0.74,0.05
+Calzetti et al. 1995 (IC 435),1775,0.76,0.05,0.68,0.05
+Calzetti et al. 1995 (IC 435),1825,0.67,0.05,0.7,0.05
+Calzetti et al. 1995 (IC 435),1875,0.6,0.05,0.76,0.05
+Calzetti et al. 1995 (IC 435),1925,0.56,0.05,0.72,0.05
+Calzetti et al. 1995 (IC 435),1975,0.56,0.05,0.7,0.05
+Calzetti et al. 1995 (IC 435),2025,0.5,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2075,0.45,0.05,0.7,0.05
+Calzetti et al. 1995 (IC 435),2125,0.48,0.05,0.64,0.05
+Calzetti et al. 1995 (IC 435),2175,0.44,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2225,0.47,0.05,0.6,0.05
+Calzetti et al. 1995 (IC 435),2275,0.39,0.05,0.7,0.05
+Calzetti et al. 1995 (IC 435),2325,0.38,0.05,0.78,0.05
+Calzetti et al. 1995 (IC 435),2375,0.44,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2425,0.44,0.05,0.64,0.05
+Calzetti et al. 1995 (IC 435),2475,0.46,0.05,0.64,0.05
+Calzetti et al. 1995 (IC 435),2525,0.43,0.05,0.7,0.05
+Calzetti et al. 1995 (IC 435),2575,0.46,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2625,0.48,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2675,0.46,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2725,0.48,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2775,0.48,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2825,0.48,0.05,0.66,0.05
+Calzetti et al. 1995 (IC 435),2875,0.51,0.05,0.64,0.05
+Calzetti et al. 1995 (IC 435),2925,0.54,0.05,0.64,0.05
+Calzetti et al. 1995 (IC 435),2975,0.55,0.05,0.64,0.05
+Calzetti et al. 1995 (IC 435),3025,0.57,0.05,0.62,0.05
+Calzetti et al. 1995 (IC 435),3075,0.64,0.05,0.58,0.05
+Calzetti et al. 1995 (IC 435),4400,0.64,0.05,0.58,0.05
+Calzetti et al. 1995 (IC 435),5500,0.49,0.05,0.64,0.05
+Morgan et al. 1976 (DGL/TD1),2740,0.78,0.2,-1,0
+Morgan et al. 1976 (DGL/TD1),2350,0.58,0.15,-1,0
+Lehtinen & Mattila 1996 (Thumbprint),12600,0.69,0.11,-1,0
+Lehtinen & Mattila 1996 (Thumbprint),16600,0.73,0.13,-1,0
+Lehtinen & Mattila 1996 (Thumbprint),21600,0.61,0.15,-1,0
+Murthy et al 1993 (DGL/Voyager),1050,0.55,0.25,-1,0
+Witt et al. 1997 (DGL/FAUST),1565,0.43,0.05,0.68,0.1
+Petersohn 1994 (DGL - DE),1500,0.57,0.15,0.89,0.05
+Sujatha et al. 2010 (DGL/GALEX),1550,0.32,0.09,0.51,0.19
+Sujatha et al. 2010 (DGL/GALEX),2300,0.45,0.08,0.56,0.1
+Petersohn 1995 (DGL - DE),1500,0.57,0.15,0.89,0.05
+Burgh et al 2002 (NGC 2023),1082.5,0.31,0.13,0.82,0.13
+Burgh et al 2002 (NGC 2023),1132.5,0.31,0.14,0.83,0.13
+Burgh et al 2002 (NGC 2023),1170,0.33,0.14,0.81,0.13
+Burgh et al 2002 (NGC 2023),1267.5,0.35,0.09,0.83,0.08
+Burgh et al 2002 (NGC 2023),1327.5,0.38,0.13,0.81,0.13
+Burgh et al 2002 (NGC 2023),1362.5,0.43,0.09,0.78,0.08
+Witt et al. 1994,21600,0.6,0.1,-1,0
+Sujatha et al. 2007 (DGL/FUSE/Voyager),900,0.28,0.04,0.61,0.07
+Sujatha et al. 2007 (DGL/FUSE/Voyager),1000,0.28,0.04,0.61,0.07
+Sujatha et al. 2007 (DGL/FUSE/Voyager),1100,0.28,0.04,0.61,0.07
+Witt et al. 1993 (NGC 7023),1300,0.55,0.05,0.75,0.05
+Witt et al. 1993 (NGC 7023),1111,0.43,0.05,0.75,0.05
+Witt et al. 1993 (NGC 7023),1000,0.42,0.05,0.75,0.05
+Shalima et al. 2006 (Orion),912,0.3,0.1,-1,0
+Shalima et al. 2006 (Orion),935,0.36,0.13,-1,0
+Shalima et al. 2006 (Orion),940,0.4,0.14,-1,0
+Shalima et al. 2006 (Orion),955,0.41,0.14,-1,0
+Shalima et al. 2006 (Orion),975,0.36,0.12,-1,0
+Shalima et al. 2006 (Orion),995,0.48,0.17,-1,0
+Shalima et al. 2006 (Orion),1020,0.5,0.2,-1,0
+Gibson & Nordsieck 2003 (Pleiades),1650,0.42,0.27,0.76,0.1
+Gibson & Nordsieck 2003 (Pleiades),2200,0.44,0.29,0.74,0.09
+Haikala et al. 1995 (cirrus cloud),1565,0.4,0.32,0.45,0.45
+Hurwitz et al 1991 (DGL/UVX),1625,0.18,0.06,0,0.2
+Fitzgerald et al. 1976 (Thumbprint),4600,0.7,0.08,0.7,0.03
+Lewis et al. 2009 (FUVCam: Sco OB2),1769,0.59,0.07,-1,0
+Lewis et al. 2009 (FUVCam: Sco OB2),1362,0.54,0.06,-1,0
+Morgan 1990 (alf Ori),2740,0.52,0.16,-1,0
+Morgan 1990 (alf Ori),2350,0.28,0.04,-1,0
+Morgan 1990 (alf Ori),1950,0.24,0.06,-1,0
+Morgan 1990 (alf Ori),1550,0.3,0.03,-1,0
+Witt et al. 1992 (NGC 7023),2763,0.72,0.05,0.7,0.05
+Witt et al. 1992 (NGC 7023),2184,0.52,0.05,0.7,0.05
+Witt et al. 1992 (NGC 7023),1443,0.74,0.05,0.75,0.05
+Henry 2002 (DGL),1425,0.2,0.2,-1,0
+Murthy & Henry 1995 (DGL/UVX+),1500,0.44,0.22,-1,0
